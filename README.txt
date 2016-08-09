@@ -3,6 +3,8 @@ Welcome to PyMOL360!
 For optimal PyMOL360 experience, we recommend using PyMol v1.3
 	Example: Windows users download pymol-v1.3r1-edu-Win32.msi
 
+Note: While PyMOL360 is preferred to be used on an executable version of PyMOL, it is possible to run this out of the open-source PyMOL version which runs out of a copy of Python not registered in the directory. For this setup, Pygame can be installed as any non-default library would be through the terminal (cmd: pip install pygame).
+
 Before running this add-on in PyMOL, you will need to add the Pygame module to your PyMOL library. To do this, follow these steps:
 
 1. Obtain a copy of Pygame that is compatible with the your version of PyMOL.
